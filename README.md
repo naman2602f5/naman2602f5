@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @naman2602f5
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Naman Tyagi
+- 👀 I’m interested in programming,machine learning,soft computing,dbms
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 naman2602f5/naman2602f5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

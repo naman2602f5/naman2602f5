@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naman Tyagi
-- 👀 I’m interested in programming,machine learning,soft computing,dbms
+- 👀 I’m interested in data structures,machine learning,soft computing,dbms
 - 🌱 I’m currently learning deep learning
 
 <!---

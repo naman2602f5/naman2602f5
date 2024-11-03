@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Tyagi</h1>
 <h3 align="center">A passionate Backend developer in Python</h3>
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/sw94TJbH1ozPgtZz8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman2602f5&label=Profile%20views&color=0e75b6&style=flat" alt="naman2602f5" /> </p>
 

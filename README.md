@@ -12,7 +12,7 @@
 - 📫 How to reach me **namantyagirjt@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Yn9EbY3khaKCd5JkRLoKCJbUhdnJgn0P/view?usp=sharing](https://drive.google.com/file/d/1Yn9EbY3khaKCd5JkRLoKCJbUhdnJgn0P/view?usp=sharing)
-<img align="left" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/photos/1922918387/display_1500/stock-vector-programmer-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-1922918387.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/photos/1922918387/display_1500/stock-vector-programmer-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-1922918387.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naman-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-tyagi" height="30" width="40" /></a>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman2602f5&show_icons=true&locale=en" alt="naman2602f5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman2602f5&" alt="naman2602f5" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=naman2602f5&" alt="naman2602f5" /></p>

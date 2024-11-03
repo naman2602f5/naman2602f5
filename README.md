@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Tyagi</h1>
 <h3 align="center">A passionate Backend developer in Python</h3>
-<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/sw94TJbH1ozPgtZz8](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1730647369~exp=1730650969~hmac=8ea7253076d303298cc599aa9e24bd6b91d4fa0799dca56737caa0b0f89444fe&w=826)">
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/photos/1922918387/display_1500/stock-vector-programmer-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-1922918387.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman2602f5&label=Profile%20views&color=0e75b6&style=flat" alt="naman2602f5" /> </p>
 

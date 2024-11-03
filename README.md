@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naman Tyagi</h1>
 <h3 align="center">A passionate Backend developer in Python</h3>
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/photos/1922918387/display_1500/stock-vector-programmer-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-1922918387.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman2602f5&label=Profile%20views&color=0e75b6&style=flat" alt="naman2602f5" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman2602f5" alt="naman2602f5" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Kedro**
 
